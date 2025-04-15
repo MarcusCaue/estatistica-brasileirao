@@ -1,32 +1,37 @@
 # Projeto de Estatística Aplicada
 
 ## 🧑‍💻 Autores  
-- Nome 1 (matrícula) - email  
-- Nome 2 (matrícula) - email  
-- Nome 3 (matrícula) - email  
+- Marcus Cauê de Farias Barbosa - marcus.barbosa@academico.ifpb.edu.br
 
-## 🎯 Tema e Motivação  
-Descreva em até dois parágrafos o tema que será investigado no projeto e a motivação da equipe para essa escolha.  
-Explique por que esse tema é relevante ou interessante do ponto de vista estatístico ou social.
+## 🎯 Tema e Motivação
+O presente projeto busca analisar e comparar o desempenho das equipes que participaram do Campeonato Brasileiro de futebol (Brasileirão) Série A no ano de 2024, observando as diferenças entre os estados e entre grandes e pequenas equipes para ver se o poder aquisitivo influencia significamente o desempenho de uma equipe ou de um estado ao longo do campeonato. 
+
+O objetivo é fazer uma análise minunciosa de algo que, aparentemente, é só entretenimento, mas que move com muita intensidade os sentimentos dos torcedores; mostrando que algo simples pode trazer muitas informações interessantes.
 
 ## 📊 Conjunto de Dados Selecionado  
 - **Nome do conjunto de dados:**  
-  (Exemplo: "World Happiness Report", "ENEM 2023", "IBGE - PNAD Contínua", "Kaggle - Netflix Movies", etc.)
-
+  Tabela final do Campeonato Brasileiro de Futebol Série A 2024
+  
 - **Fonte:**  
-  (Link ou citação da base de dados)
+  Tabela final do Brasileirão 2024
 
-- **Descrição breve:**  
-  Explique o que representa esse conjunto de dados, qual o escopo (temporal, geográfico, etc.), quais as principais variáveis presentes e o motivo pelo qual ele foi escolhido.  
+- **Descrição breve:**
+  Esta base de dados (com algumas adaptações feitas por mim) representa os dados das equipes participantes do campeonato durante o ano de 2024, como quantidade de vitórias, de derrotas, de empates, o saldo de gols, nome da equipe, o estado de origem da equipe e entre outras variáveis, cuja grande maioria é quantitativa.
+  
+- **Justificativa para a escolha:**
+  O estudo visa observar as diferenças de desempenho entre os clubes, sobretudo quando agrupados por estados e/ou por regiões, para ver se o poder financeiro dos estados e dos clubes influencia no desempenho deles ao longo do campeonato.
 
-- **Justificativa para a escolha:**  
-  Indique por que esse conjunto de dados permite análises estatísticas interessantes e como ele pode responder a questões relevantes.
+- **Observação:**
+  Em algumas análises será preciso utilizar dados de tabelas das edições anteriores do campeonato, as quais possuem as mesmas variáveis.
 
 ---
 
 ## ❓ Perguntas ou Hipóteses  
-*Começar a planejar com perguntas de Estatística Descritiva*  
-Liste aqui as perguntas de pesquisa ou hipóteses estatísticas que o grupo pretende investigar com base nos dados.
+- Quais são os estados presentes nesta edição e quantas são as equipes por estado?
+- Qual a média de pontos das equipes de São Paulo em relação à das equipes do Rio de Janeiro?
+- Quantas equipes nordestinas foram classificadas para a Copa Libertadores de 2025? Isto é, que estiveram entre os seis primeiros colocados da tabela.
+- Se obsevarmos as últimas 10 edições do campeonato, em quantas delas houveram clubes da região norte?
+- Quantas derrotas teve o Palmeiras em relação aos seus adversários no estado de São Paulo? E em relação aos clubes do nordeste?
 
 ## 🔍 Metodologia  
 *A preencher na próxima etapa.*  
