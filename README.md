@@ -4,7 +4,7 @@
 - Marcus Cauê de Farias Barbosa - marcus.barbosa@academico.ifpb.edu.br
 
 ## 🎯 Tema e Motivação
-O presente projeto busca analisar e comparar o desempenho das equipes que participaram do Campeonato Brasileiro de futebol (Brasileirão) Série A no ano de 2024, observando as diferenças entre os estados e entre grandes e pequenas equipes para ver se o poder aquisitivo influencia significamente o desempenho de uma equipe ou de um estado ao longo do campeonato. 
+O presente projeto busca analisar e comparar o desempenho das equipes que participaram do Campeonato Brasileiro de futebol (Brasileirão) Série A em diferentes edições, observando as diferenças entre os estados e entre grandes e pequenas equipes para ver se o poder aquisitivo influencia significamente o desempenho de uma equipe ou de um estado ao longo do campeonato. 
 
 O objetivo é fazer uma análise minunciosa de algo que, aparentemente, é só entretenimento, mas que move com muita intensidade os sentimentos dos torcedores; mostrando que algo simples pode trazer muitas informações interessantes.
 
