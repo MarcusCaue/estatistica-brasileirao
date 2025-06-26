@@ -1,0 +1,7 @@
+Sugestões de Análise:
+
+Qual é o desempenho médio dos times em termos de pontos em cada temporada?
+→ Agrupe por Season, calcule média, mediana, desvio padrão, mínimo e máximo de Points por temporada. Apresente os resultados em uma tabela e destaque o ano com maior variação.
+
+Como varia o saldo de gols médio dos clubes ao longo das temporadas?
+→ Calcule GoalDifference = GoalsFor - GoalsAgainst para cada time por temporada. Agrupe por Season e apresente média, desvio padrão, mínimo e máximo do saldo de gols. Visualize a evolução da média ao longo do tempo.
