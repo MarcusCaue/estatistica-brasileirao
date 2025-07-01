@@ -1,0 +1,1 @@
+A maioria dos resultados apresentados na Atividade foram obtidos depois do prazo estipulado (30/06), isto é, com atraso.
